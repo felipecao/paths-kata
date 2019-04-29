@@ -1,3 +1,3 @@
 # Paths kata
 
-Kotlin implementation of https://tyrcho.github.io/path-kata/#8
+Kotlin implementation of https://tyrcho.github.io/path-kata/
